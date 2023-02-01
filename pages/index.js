@@ -2,7 +2,7 @@ import Link from "next/link";
 export default function Home() {
   return (
     <div>
-      <h2>Mock data</h2>
+      <h2>Mock datas</h2>
       <ul>
         <li>
           <Link href="/api/comments">GET /api/comments</Link>
